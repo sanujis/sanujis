@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanuji Samarakoon</h1>
-<h3 align="center">Computer Science & Engineering Undergraduate at University of Moratuwa</h3>
+<h3 align="center">Third-year Computer Science undergraduate specializing in Data Science & Engineering, passionate about building intelligent systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
